@@ -25,7 +25,7 @@
 [![GitHub license](https://img.shields.io/github/license/sassansh/Heroku-PHP-MySQL?style=for-the-badge)](https://github.com/sassansh/Heroku-PHP-MySQL/blob/master/LICENSE)
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-[![Site preview](/images/screenshot.png)](https://sassanshokoohi.ca/)
+[![Site preview](/images/screenshot.png)](https://php-getting-started-sassansh.herokuapp.com/db/)
 
 ## Table of Contents
 
